@@ -1,0 +1,5 @@
+name: Automsg
+version: 1.0
+main: automsg.automsg.Automsg
+authors: [ Talec ]
+description: Auto MSG
